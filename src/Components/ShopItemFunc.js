@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 function ShopItemFunc (props) {
 
-    const {item} = props
+    const {item} = props;
 
     return (
              <div className="main-content">
